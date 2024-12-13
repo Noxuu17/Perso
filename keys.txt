@@ -6,5 +6,4 @@ Oriss,3999-12-31,
 Orisfree,2999-12-31,
 Tamir,4500-12-31,
 Idrissontop,2500-12-21,
-IdrissOnTop,2500-12-31,
-Le R,3400-12-31,
+IdrissOnTop,2500-12-31,df288de1-b994-11ef-a9c0-644ed70b1d42
